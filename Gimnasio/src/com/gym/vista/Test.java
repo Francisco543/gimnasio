@@ -16,7 +16,7 @@ public class Test {
 	
 	public static String salir="salir";
 	
-	public static void AgregoAlumno(Boxeadores boxeadores){
+	public static void AgregoAlumno(Boxeadores boxeadores){//hola
 		
 		boxeador[indiceAlumno]= boxeadores;
 		
